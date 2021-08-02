@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OLD SCHOOL STORE</string>
+    <string name="home">HOME</string>
+    <string name="game_shop">GAME SHOP</string>
+    <string name="console_shop">CONSOLE SHOP</string>
+    <string name="account">ACCOUNT</string>
+    <string name="favourites">FAVOURITES</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="doom">DOOM</string>
+    <string name="id_software">ID SOFTWARE</string>
+    <string name="price">100$</string>
+    <string name="delivery">DELIVERY</string>
+    <string name="shopping_cart">SHOPPING CART</string>
+    <string name="shop">SHOP</string>
+    <string name="buy">BUY</string>
+    <string name="version">1.37</string>
+
+</resources>

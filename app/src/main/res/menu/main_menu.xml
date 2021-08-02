@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/homeMenu"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/accountMenu"
+            android:icon="@drawable/account"
+            android:title="@string/account" />
+        <item
+            android:id="@+id/contactMenu"
+            android:icon="@drawable/contacts"
+            android:title="@string/contacts"/>
+        <item
+            android:id="@+id/shopCart"
+            android:icon="@drawable/shopping_cart"
+            android:title="@string/shopping_cart"/>
+
+    </group>
+
+    <item
+        android:title="@string/shop">
+        <menu>
+            <item
+                android:id="@+id/gameShop"
+                android:icon="@drawable/shop"
+                android:title="@string/game_shop" />
+            <item
+                android:id="@+id/consoleShop"
+                android:icon="@drawable/favorites"
+                android:title="@string/console_shop"/>
+        </menu>
+    </item>
+
+
+
+</menu>
